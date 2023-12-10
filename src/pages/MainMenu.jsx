@@ -13,7 +13,7 @@ const MainMenu = () => {
         }}
       >
         <Typography variant="h4" gutterBottom>
-          Welcome to the Admin Dashboard
+          Admin Dashboard
         </Typography>
         <Typography variant="body1" paragraph>
           This is the main menu of the admin dashboard. Here you can navigate to different sections of the website to manage users, monitor game progress, and access other administrative features. Use the navigation links below to explore the site.

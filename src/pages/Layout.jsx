@@ -18,13 +18,13 @@ const Layout = () => {
             </Typography>
 
             <Button color="inherit" component={Link} to="/">
-              Home
+              Əsas Səhifə
             </Button>
             <Button color="inherit" component={Link} to="/manageusers">
-              Users
+              Oyunçular
             </Button>
             <Button color="inherit" component={Link} to="/realgame">
-              Game
+              Oyun
             </Button>
           </Toolbar>
         </Container>

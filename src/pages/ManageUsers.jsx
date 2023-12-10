@@ -38,7 +38,7 @@ const ManageUsers = () => {
   return (
     <>    
     <Typography mt={16} variant="h4" gutterBottom>
-    Welcome to the Manage Users page!
+      Oyunçular siyahısı
     </Typography>   
     <TableContainer component={Paper}>
       <Table sx={{ minWidth: 650 }} aria-label="simple table">
